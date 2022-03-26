@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+import os
+try:
+	print("Quantidade que será alocada?")
+	memoria = input("R: ").strip()
+	print("Nome do arquivo: ")
+	arquivo = input("R: ").strip()
+	os.system(f"qemu-img create -f qcow2 {arquivo}.qcow2 {memoria}G")
+
+except KeyboardInterrupt:
+	os.system("clear" or "cls")
+
