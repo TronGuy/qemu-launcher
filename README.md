@@ -16,8 +16,6 @@ O projeto usa o tk/tkinter. Verifique se o pacote Tk está instalado.
 * Windows
 * Linux
 
-
-*Qemu-Launcher* is an application written in python and _*tkinter/tcl*_. Is a simple GUI application to use QEMU.
 _____________________________________________________________________________________________________________
 ## Dependencies
 
