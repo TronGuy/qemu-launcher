@@ -1,6 +1,3 @@
-# QEMU-LAUNCHER
-
-*Qemu-Launcher* é uma aplicação escrita em python e _*tkinter/tcl*_. É uma aplicação GUI simples para usar o QEMU.
 
 ## Dependências
 
