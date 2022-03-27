@@ -12,7 +12,7 @@ O projeto usa o tk/tkinter. Verifique se o pacote Tk está instalado.
 > * sudo apt-get install python-tk or sudo apt install python-tk
 > 
 > **Arch Linux**:
-> * pacman -Sy tk or sudo pacman -Sy install tk
+> * pacman -Sy tk or sudo pacman -Sy tk
 
 ### Versões
 
