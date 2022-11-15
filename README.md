@@ -19,7 +19,7 @@ O projeto usa o tk/tkinter. Verifique se o pacote Tk está instalado.
 _____________________________________________________________________________________________________________
 ## Dependencies
 
-the project uses the tk/tkinter. Please, verify theses if these dependencies are installed with **PIP** or the package manager.
+the project uses the tk/tkinter. Please, verify if these dependencies are installed with **PIP** or the package manager.
 
 > **Ubuntu/Derivatives**:
 > * sudo apt-get install python-tk or sudo apt install python-tk
